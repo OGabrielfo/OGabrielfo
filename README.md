@@ -1,7 +1,7 @@
 ## Aoba! Aqui é o Gabriel Silva, O Gabrielfo!
 
-- 🔭 Estou procurando uma oportunidade para ingressar no mercado com front ou back-end
-- 🌱 Atualmente estudando C# e React, além de desenvolvimento com Unity
+- 🔭 Estou procurando uma oportunidade para ingressar no mercado com front-end ou desenvolvimento de Games
+- 🌱 Atualmente estudando Unity, C# e NextJs
 - 📫 Pode entrar em contato via: ogabrielfo.silva@gmail.com
 - 😄 Pronomes: indiferente
 
