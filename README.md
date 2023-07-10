@@ -1,7 +1,7 @@
 ## Aoba! Aqui é o Gabriel Silva, O Gabrielfo!
 
-- 🔭 Estou procurando uma oportunidade para ingressar no mercado com front-end ou desenvolvimento de Games
-- 🌱 Atualmente estudando Unity, C# e NextJs
+- 🔭 Estou procurando uma oportunidade para ingressar no mercado de desenvolvimento de Games
+- 🌱 Atualmente estudando Unity e C#
 - 📫 Pode entrar em contato via: ogabrielfo.silva@gmail.com
 - 😄 Pronomes: indiferente
 
