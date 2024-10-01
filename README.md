@@ -2,7 +2,7 @@
 
 - 🔭 Estou procurando uma oportunidade para ingressar no mercado de desenvolvimento de Games
 - 🌱 Atualmente estudando Unity e C#
-- 📫 Pode entrar em contato via: ogabrielfo.silva@gmail.com
+- 📫 Pode entrar em contato via: gabrielgsilva.dev@gmail.com
 - 😄 Pronomes: indiferente
 
 ##
